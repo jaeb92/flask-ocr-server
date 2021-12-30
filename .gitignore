@@ -1,0 +1,4 @@
+# static folder
+static/
+
+secret*
