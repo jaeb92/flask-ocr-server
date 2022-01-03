@@ -1,4 +1,4 @@
 # static folder
 static/
-
+.idea
 secret*
