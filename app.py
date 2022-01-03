@@ -16,7 +16,7 @@ api = Api(
     title='flask api test',
     description='flask api test version',
     terms_url='/',
-    license='cslee'
+    license='@'
 )
 
 api.add_namespace(ocr_api, '/ocr')
